@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Nagoluaadhi/travelfy-server">
-    <img src="src/assets/images/travelfy-logo-blue.jpg" alt="travelfy Logo" width="250" height="75" alt="Travelfy">
+    <img src="https://github.com/Nagoluaadhi/travelfy-client/src/assets/images/travelfy-logo-blue.jpg" alt="travelfy Logo" width="250" height="75" alt="Travelfy">
   </a>
   <h3 align="center">Travel planner</h3>
      MERN stack app
