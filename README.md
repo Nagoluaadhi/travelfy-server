@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Nagoluaadhi/travelfy-server">
-    <img src="https://github.com/Nagoluaadhi/travelfy-client/src/assets/images/travelfy-logo-blue.jpg" alt="travelfy Logo" width="250" height="75" alt="Travelfy">
+    <img src="images/travelfy-logo-blue.jpg" alt="travelfy Logo" width="250" height="75" alt="Travelfy">
   </a>
   <h3 align="center">Travel planner</h3>
      MERN stack app
@@ -170,7 +170,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 
-[product-screenshot]: src/assets/images/home.jpg
-[product-screenshot2]: src/assets/images/explore.jpg
-[product-screenshot3]: src/assets/images/mytrips.jpg
-[product-screenshot4]: src/assets/images/weather.jpg
+[product-screenshot]: images/home.jpg
+[product-screenshot2]: images/explore.jpg
+[product-screenshot3]: images/mytrips.jpg
+[product-screenshot4]: images/weather.jpg
